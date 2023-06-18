@@ -16,7 +16,7 @@
 
 <h2>🤳 Connect with me: </h2>
 
-[<img src="https://icons8.com/icon/8808/linkedin">](http://linkedin.com/jfuchs01) Linked In
+[<img src="https://icons8.com/icon/8808/linkedin">](http://linkedin.com/in/jfuchs01/)  ⬅️ Linked In
 
 
  
