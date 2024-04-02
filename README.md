@@ -2,7 +2,7 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 <ul>
-  <li><a href="https://github.com/jfuchs01/advanced-network-scanner">Network Scanner Tool</a></li>
+  <li><a href="https://github.com/jfuchs01/network-scanner">Network Scanner Tool</a></li>
 </ul>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
