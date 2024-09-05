@@ -13,8 +13,7 @@
 
 <h2>📄 Certifications</h2>
 <ul>
-  <li><a href="https://coursera.org/share/CERTURL">Google Cybersecurity Professional</a></li>
-  <li>🔭 I’m currently working on obtaining the CompTIA Security+ Professional Certification.</li>
+  <li><a href="https://www.credly.com/badges/1cbe4a33-0a63-4b9c-a605-69884f41b9b6/linked_in?t=sjalqz">CompTIA Security+</a></li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
@@ -30,7 +29,7 @@
 <p>My journey in data science and cybersecurity has led me to work on diverse projects, from analyzing employee satisfaction metrics to predicting wine quality through advanced machine learning models. My hands-on experience with SIEM tools, network security, and data analytics platforms enables me to tackle challenges in the dynamic tech landscape effectively.</p>
 
 <h2>🚀 What I'm focusing on:</h2>
-<p>Currently, I am enhancing my skills in cybersecurity, working towards the CompTIA Security+ certification, and diving deeper into the world of machine learning and big data analytics.</p>
+<p>Currently, I am enhancing my skills in cybersecurity, working towards the CompTIA CySa+ certification while diving deeper into the world of machine learning and big data analytics.</p>
 
 <h2>📚 Continuous Learning:</h2>
 <p>I believe in lifelong learning and am always on the lookout for new courses and resources to broaden my knowledge in data science, cybersecurity, and beyond.</p>
